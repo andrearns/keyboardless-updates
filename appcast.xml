@@ -5,10 +5,10 @@
         <item>
             <title>1.0.1</title>
             <pubDate>Tue, 04 Nov 2025 13:08:56 -0300</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:version>2</sparkle:version> <!-- Increment this number for each new release -->
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString> <!-- Update this to the new version number -->
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/andrearns/keyboardless-updates/releases/download/1.0.1/KeyboardLess.1.0.1.dmg" length="1440138244" type="application/octet-stream"/>
+            <enclosure url="https://github.com/andrearns/keyboardless-updates/releases/download/1.0.1/KeyboardLess.1.0.1.dmg" length="1440138244" type="application/octet-stream"/> <!-- Update this to the new version's filename -->
         </item>
     </channel>
 </rss>
