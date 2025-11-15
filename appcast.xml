@@ -3,12 +3,12 @@
     <channel>
         <title>KeyboardLess</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Mon, 10 Nov 2025 15:37:56 -0300</pubDate>
+            <title>1.1.1</title>
+            <pubDate>Fri, 14 Nov 2025 23:37:56 -0300</pubDate>
             <sparkle:version>1</sparkle:version> <!-- Increment this number for each new release -->
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString> <!-- Update this to the new version number -->
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString> <!-- Update this to the new version number -->
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/andrearns/keyboardless-updates/releases/download/1.1.0/KeyboardLess.1.1.0.dmg" length="1440138244" type="application/octet-stream"/> <!-- Update this to the new version's filename -->
+            <enclosure url="https://github.com/andrearns/keyboardless-updates/releases/download/1.1.1/KeyboardLess.1.1.1.dmg" length="1440138244" type="application/octet-stream"/> <!-- Update this to the new version's filename -->
         </item>
     </channel>
 </rss>
